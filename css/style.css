@@ -125,7 +125,8 @@ body{background:url(../img/body.jpg) repeat-x left 33px #fff;}
 .m1 .l1{padding-left:734px;}
 .m1 .l2{padding-left:727px;}
 /*-------------------模块m2--------------------------*/
-.m2{margin-top:34px; border:solid #E5E6E7; border-width:14px 12px; position:relative;}
+#b .r2{border:solid #E5E6E7; border-width:14px 12px; margin-top:34px;}
+.m2{position:relative;}
 .m2 .h{background:url(../img/m2-h.png) no-repeat; height:69px; left:-19px; top:-35px;}
 .m2 .b{margin-top:-30px; padding:0 15px;}
 .m2 .b th{font-size:16px; font-weight:bold; text-align:center; height:24px; line-height:24px;}
@@ -138,9 +139,17 @@ body{background:url(../img/body.jpg) repeat-x left 33px #fff;}
 .m2 .br2 img{ margin-right:10px; vertical-align:middle;}
 .m2 .btn{background:url(../img/btn.png) no-repeat; height:27px; line-height:27px; width:92px; border:none; cursor:pointer;}
 /*-------------------模块m3--------------------------*/
-
+.m3 .h{background:url(../img/m3-h.png) no-repeat; height:73px; left:-19px;}
 /*-------------------模块m4--------------------------*/
-
+.m4{margin:27px 20px 0; border:solid #E5E6E7; border-width:14px 12px; padding:15px;}
+.m4 .h{ margin-bottom:40px;}
+.m4 .hr1{font-size:26px; border-bottom:5px solid #E5E6E7; padding-bottom:14px; margin-bottom:10px;}
+.m4 .hr2{color: #575953;}
+.m4 .br1{font-size:14px; line-height:1.8; margin-bottom:45px;}
+.m4 .br2{margin-bottom:103px;}
+.m4 .br2 a{display:inline-block; height:25px; line-height:25px; text-align:center; width:25px;}
+.m4 .br2 .a1{ background:#222222; color:#fff;}
+.m4 .br2 .a2{background:url(../img/m4-a2.png) no-repeat; color:#fff; width:72px;}
 /*-------------------模块m5--------------------------*/
 
 /*-------------------模块m6--------------------------*/
